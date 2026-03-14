@@ -8,6 +8,8 @@
 - [CONCEPT.md](./CONCEPT.md) — Design concept, colors, typography
 - [CONTENT.md](./CONTENT.md) — Landing page content structure
 
+See also: [CLAUDE.md](../CLAUDE.md) — Project instructions for Claude Code
+
 ---
 
 ## Table of Contents
@@ -445,8 +447,3 @@ export const Logo: React.FC<LogoProps> = ({
 - [ ] Favicon (Λ mark only) — .ico, .png, .svg
 - [ ] Open Graph image (1200x630)
 - [ ] Apple Touch Icon (180x180)
-
----
-
-**Document maintained by:** Nikita Khomitsevych
-**Last review:** March 14, 2026

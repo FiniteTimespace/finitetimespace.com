@@ -8,6 +8,8 @@
 - [LOGO.md](./LOGO.md) — Logo explorations and usage guidelines
 - [CONTENT.md](./CONTENT.md) — Landing page content structure
 
+See also: [CLAUDE.md](../CLAUDE.md) — Project instructions for Claude Code
+
 ---
 
 ## Table of Contents
@@ -306,8 +308,3 @@ Alternatives to pure white (#FFFFFF) analyzed:
 - ❌ Animations/motion (beyond subtle hover states)
 - ❌ Multiple CTAs
 - ❌ Generic stock imagery
-
----
-
-**Document maintained by:** Niki
-**Last review:** March 14, 2026

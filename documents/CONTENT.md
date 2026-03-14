@@ -8,6 +8,8 @@
 - [CONCEPT.md](./CONCEPT.md) — Design concept, colors, typography
 - [LOGO.md](./LOGO.md) — Logo explorations and usage guidelines
 
+See also: [CLAUDE.md](../CLAUDE.md) — Project instructions for Claude Code
+
 ---
 
 ## Table of Contents
@@ -382,8 +384,3 @@ Registered in Wyoming, USA
 - [ ] Add brief bio
 - [ ] Link to side projects/ventures
 - [ ] Add social links to footer
-
----
-
-**Document maintained by:** Nikita Khomitsevych
-**Last review:** March 14, 2026
